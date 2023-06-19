@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_UKHO", "Assignment_UKHO.csproj", "{195251AA-3398-434E-8155-0B1389EEAA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_UKHO.Data", "..\Assignment_UKHO.Data\Assignment_UKHO.Data.csproj", "{57C6B4A5-A851-4AB1-AA76-FA16D7BF0BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{195251AA-3398-434E-8155-0B1389EEAA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{195251AA-3398-434E-8155-0B1389EEAA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{195251AA-3398-434E-8155-0B1389EEAA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{195251AA-3398-434E-8155-0B1389EEAA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C6B4A5-A851-4AB1-AA76-FA16D7BF0BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C6B4A5-A851-4AB1-AA76-FA16D7BF0BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C6B4A5-A851-4AB1-AA76-FA16D7BF0BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C6B4A5-A851-4AB1-AA76-FA16D7BF0BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B9B6F37-2C45-4DFC-9F1D-97EE0E6C504B}
+	EndGlobalSection
+EndGlobal
